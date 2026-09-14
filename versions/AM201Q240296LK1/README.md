@@ -31,7 +31,7 @@
 
 OSPTEK **2.01 寸 240×296 AMOLED** 是一款 **QSPI** 接口彩色显示模组，显示驱动为 **ICNA3306**，触摸驱动为 **CST816D**。适合手持终端、穿戴与小型竖屏 HMI 等场景。
 
-规格标识（仓库名）：`2.01-amoled-240x296-qspi-icna3306`
+规格标识（仓库名）：`amoled-2.01-240x296-qspi-icna3306`
 
 当前模组版本：**AM201Q240296LK1**。电气与外形细节以 [`docs/AM_201_Q240296_LK_1_a3e5aef203.pdf`](./docs/AM_201_Q240296_LK_1_a3e5aef203.pdf) 为准。
 
@@ -61,7 +61,7 @@ OSPTEK **2.01 寸 240×296 AMOLED** 是一款 **QSPI** 接口彩色显示模组�
 ## 仓库结构
 
 ```text
-2.01-amoled-240x296-qspi-icna3306/                                # 仓库根（导航见 ../../README.md）
+amoled-2.01-240x296-qspi-icna3306/                                # 仓库根（导航见 ../../README.md）
 └── versions/
     └── AM201Q240296LK1/                                # 本料号完整资料
         ├── README.md

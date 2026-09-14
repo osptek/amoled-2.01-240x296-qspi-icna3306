@@ -29,7 +29,7 @@ This repository holds materials for the **2.01″ 240×296 AMOLED (QSPI · ICNA3
 
 The **root README is the navigation page**. Use the table below for a quick scan; open **Full docs** to enter that **part-number folder** under `versions/` (product page, datasheets, and examples live there).
 
-Repo id: `2.01-amoled-240x296-qspi-icna3306`
+Repo id: `amoled-2.01-240x296-qspi-icna3306`
 
 ---
 

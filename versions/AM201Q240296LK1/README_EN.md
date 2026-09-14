@@ -31,7 +31,7 @@
 
 OSPTEK **2.01″ 240×296 AMOLED** is a **QSPI** color display module driven by **ICNA3306**, with capacitive touch (**CST816D**). Suited to handheld devices, wearables, and compact portrait HMI.
 
-Spec ID (repository name): `2.01-amoled-240x296-qspi-icna3306`
+Spec ID (repository name): `amoled-2.01-240x296-qspi-icna3306`
 
 Current module version: **AM201Q240296LK1**. Electrical and mechanical details follow [`docs/AM_201_Q240296_LK_1_a3e5aef203.pdf`](./docs/AM_201_Q240296_LK_1_a3e5aef203.pdf).
 
@@ -61,7 +61,7 @@ Current module version: **AM201Q240296LK1**. Electrical and mechanical details f
 ## Repository layout
 
 ```text
-2.01-amoled-240x296-qspi-icna3306/                                # repo root (nav: ../../README_EN.md)
+amoled-2.01-240x296-qspi-icna3306/                                # repo root (nav: ../../README_EN.md)
 └── versions/
     └── AM201Q240296LK1/                                # full materials for this part number
         ├── README.md
