@@ -6,6 +6,7 @@ panel: amoled
 resolution: 240x296
 interface: [qspi]
 shape: rect
+corner: rounded
 
 versions:
   - id: AM201Q240296LK1
