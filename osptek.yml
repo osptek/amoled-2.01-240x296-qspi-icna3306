@@ -1,0 +1,14 @@
+id: amoled-2.01-240x296-qspi-icna3306
+category: displays
+
+size: "2.01"
+panel: amoled
+resolution: 240x296
+interface: [qspi]
+shape: rect
+
+versions:
+  - id: AM201Q240296LK1
+    driver: ICNA3306
+    touch: CST816D
+    note: none
