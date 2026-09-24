@@ -18,6 +18,8 @@
 - [About](#about)
 - [Versions](#versions)
 - [AM201Q240296LK1](#am201q240296lk1)
+- [AM201Q240296LK](#am201q240296lk)
+- [AM201Q240296LK3](#am201q240296lk3)
 - [Where to Buy](#where-to-buy)
 - [Support](#support)
 
@@ -37,6 +39,8 @@ Repo id: `amoled-2.01-240x296-qspi-icna3306`
 
 | Version | Image | Summary | Full docs |
 | ------- | ----- | ------- | --------- |
+| AM201Q240296LK3 | <img alt="AM201Q240296LK3" src="./versions/AM201Q240296LK3/images/product.png" width="120" /> | [Summary](#am201q240296lk3) | [Full docs](./versions/AM201Q240296LK3/) |
+| AM201Q240296LK | <img alt="AM201Q240296LK" src="./versions/AM201Q240296LK/images/product.png" width="120" /> | [Summary](#am201q240296lk) | [Full docs](./versions/AM201Q240296LK/) |
 | AM201Q240296LK1 | <img alt="AM201Q240296LK1" src="./versions/AM201Q240296LK1/images/product.png" width="120" /> | [Summary](#am201q240296lk1) | [Full docs](./versions/AM201Q240296LK1/) |
 
 ---
@@ -48,6 +52,26 @@ Repo id: `amoled-2.01-240x296-qspi-icna3306`
 **Notes:** With touch (CST816D).
 
 Full product page, datasheets, and examples: [versions/AM201Q240296LK1/](./versions/AM201Q240296LK1/)
+
+---
+
+## AM201Q240296LK
+
+<p align="center"><img alt="AM201Q240296LK" src="./versions/AM201Q240296LK/images/product.png" width="320" /></p>
+
+**Notes:** With touch (CST816D).
+
+Full product page, datasheets, and examples: [versions/AM201Q240296LK/](./versions/AM201Q240296LK/)
+
+---
+
+## AM201Q240296LK3
+
+<p align="center"><img alt="AM201Q240296LK3" src="./versions/AM201Q240296LK3/images/product.png" width="320" /></p>
+
+**Notes:** 1.6 mm semi-transparent cover glass. Datasheet does not list a touch IC.
+
+Full product page, datasheets, and examples: [versions/AM201Q240296LK3/](./versions/AM201Q240296LK3/)
 
 ---
 

@@ -18,6 +18,8 @@
 - [说明](#说明)
 - [版本一览](#版本一览)
 - [AM201Q240296LK1](#am201q240296lk1)
+- [AM201Q240296LK](#am201q240296lk)
+- [AM201Q240296LK3](#am201q240296lk3)
 - [购买链接](#购买链接)
 - [技术支持](#技术支持)
 
@@ -37,6 +39,8 @@
 
 | 版本 | 宣传图 | 简介 | 完整资料 |
 | ---- | ------ | ---- | -------- |
+| AM201Q240296LK3 | <img alt="AM201Q240296LK3" src="./versions/AM201Q240296LK3/images/product.png" width="120" /> | [简介](#am201q240296lk3) | [完整资料](./versions/AM201Q240296LK3/) |
+| AM201Q240296LK | <img alt="AM201Q240296LK" src="./versions/AM201Q240296LK/images/product.png" width="120" /> | [简介](#am201q240296lk) | [完整资料](./versions/AM201Q240296LK/) |
 | AM201Q240296LK1 | <img alt="AM201Q240296LK1" src="./versions/AM201Q240296LK1/images/product.png" width="120" /> | [简介](#am201q240296lk1) | [完整资料](./versions/AM201Q240296LK1/) |
 
 ---
@@ -48,6 +52,26 @@
 **说明：** 带触摸（CST816D）。
 
 完整产品页、规格书与示例：[versions/AM201Q240296LK1/](./versions/AM201Q240296LK1/)
+
+---
+
+## AM201Q240296LK
+
+<p align="center"><img alt="AM201Q240296LK" src="./versions/AM201Q240296LK/images/product.png" width="320" /></p>
+
+**说明：** 带触摸（CST816D）。
+
+完整产品页、规格书与示例：[versions/AM201Q240296LK/](./versions/AM201Q240296LK/)
+
+---
+
+## AM201Q240296LK3
+
+<p align="center"><img alt="AM201Q240296LK3" src="./versions/AM201Q240296LK3/images/product.png" width="320" /></p>
+
+**说明：** 1.6 mm 半透玻璃盖板。规格书未列触摸 IC。
+
+完整产品页、规格书与示例：[versions/AM201Q240296LK3/](./versions/AM201Q240296LK3/)
 
 ---
 
